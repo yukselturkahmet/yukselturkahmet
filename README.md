@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yukselturkahmet](https://github.com/yukselturkahmet)
 
-- 💬 Ask me about **Web**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **ahmetyukselturk1881@outlook.com**
 
