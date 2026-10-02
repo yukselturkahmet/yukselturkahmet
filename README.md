@@ -1,26 +1,56 @@
-![MasterHead](https://i0.wp.com/learnyourskills.com/wp-content/uploads/2023/08/programming-languages-future.png?w=750&ssl=1)
-<h1 align="center">Hi 👋, I'm Ahmet Yükseltürk</h1>
-<h3 align="center">I'm a Software Engineering student at UTAA</h3>
-
-- 🌱 I’m currently learning **.NET, SQL, C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yukselturkahmet](https://github.com/yukselturkahmet)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **ahmetyukselturk1881@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmet-yükseltürk-3354a5219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmet-yükseltürk-3354a5219/" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmett.sw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmett.sw" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14244a,50:1e3a8a,100:7c3aed&height=190&section=header&text=Ahmet%20Y%C3%BCkselt%C3%BCrk&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=20" alt="Ahmet Yükseltürk — Software Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=560&lines=Software+Engineer;.NET+%C2%B7+C%23+%C2%B7+SQL+%C2%B7+Python;Web+applications+%26+data-driven+tools" alt="Software Engineer · .NET · C# · SQL · Python" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukselturkahmet&show_icons=true&locale=en&layout=compact" alt="yukselturkahmet" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmet-y%C3%BCkselt%C3%BCrk-3354a5219/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahmetyukselturk1881@outlook.com"><img src="https://img.shields.io/badge/E--mail-1e3a8a?style=for-the-badge&logo=maildotru&logoColor=white" alt="E-mail" /></a>
+  <a href="https://instagram.com/ahmett.sw"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yukselturkahmet&show_icons=true&locale=en" alt="yukselturkahmet" /></p>
+## 👋 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yukselturkahmet&" alt="yukselturkahmet" /></p>
+- 🎓 Software Engineering graduate — University of Turkish Aeronautical Association (UTAA), Ankara
+- 💻 I build web applications and data-driven tools with **.NET, C#, SQL** and **Python**
+- 💬 Ask me about **web development**
+- 📫 Reach me at **ahmetyukselturk1881@outlook.com**
+
+## 🛠️ Languages and tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="42" height="42" />
+  &nbsp;
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="42" height="42" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" height="42" />
+</p>
+
+## 🚀 Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**Store-App**](https://github.com/yukselturkahmet/Store-App) | Product sales application — a full-stack project built with the ASP.NET Core MVC structure | C# · ASP.NET Core MVC |
+| [**Asp.Net_Core_MVC**](https://github.com/yukselturkahmet/Asp.Net_Core_MVC) | Turkcell Geleceği Yazanlar ASP.NET Core project | C# · ASP.NET Core |
+| [**Object Identification with OpenCV**](https://github.com/yukselturkahmet/Object-Identification-And-Coordination-With-OpenCV) | Identifies and names objects through a camera and shows their location | Python · OpenCV |
+| [**Color Detection with OpenCV**](https://github.com/yukselturkahmet/Color-Detection-and-Coordination-with-Opencv) | Color detection and coordination with OpenCV | Python · OpenCV |
+
+## 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yukselturkahmet&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yukselturkahmet&layout=compact&locale=en&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:14244a&height=110&section=footer" alt="" />
+</p>
